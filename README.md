@@ -1,6 +1,6 @@
 # WebGL Fluid Simulation
 
-[Play here](https://fluid.brousseauai.com)
+[Play here](http://fluid.brousseauai.com)
 
 <img src="/screenshot.jpg?raw=true" width="880">
 
